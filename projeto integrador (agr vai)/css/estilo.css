@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+body {
+    background-color: #2F4F4F;
+}
+
+header {
+    margin: 30px 30px 30px 30px;
+}
+
+nav, ul, li, a{
+    display: inline;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-size: 32px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: green;
+}
+
+#logoimg {
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#imghome {
+    margin: 50px 0px 30px 250px;
+}
+
+article {
+    float: left;
+    width: 65%;
+    margin: 40px;
+    clear: left;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+#homeside {
+    margin: 40px 30px 30px 1050px;
+    border: 3px solid black;
+    padding: 10px;
+    height: 622px;
+}
+
+footer {
+    background-color: deepskyblue;
+    margin-top: -28px;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+#jogos {
+    margin: 10px;
+    border: 3px solid black;
+    padding: 15px;
+    width: 100%;
+}
+
+section {
+    display: inline;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.noticias1img {
+    float: left;
+}
+
+.noticiasp {
+    font-size: 18px;
+    margin-left: 373px;
+}
+
+#noticiasec {
+    width: 25%;
+    float: right;
+    margin-top: -1105px;
+    margin-left: -70px;
+    border: 3px solid black;
+}
+
+#noticiasec2 {
+    width: 25%;
+    margin-top: -1230px;
+    border: 3px solid black;
+    margin-left: 1227px;
+}
+
+.maislidasimg {
+    margin-left: 35px;
+}
+
+#noticiasec3 {
+    width: 25%;
+    margin-top: -800px;
+    border: 3px solid black;
+    margin-left: 1227px;
+}
+
+#historia1 {
+    width: 95%;
+    margin: 10px;
+}
+
+#historiaimg {
+    float: left;
+}
+
+#historiaimg2 {
+    float: right;
+}
+
+.historiaimg3 {
+    float: left;
+}
+
+#historiasec {
+    width: 95%;
+}
+
+#historiap {
+    margin-left: 360px;
+}
+
